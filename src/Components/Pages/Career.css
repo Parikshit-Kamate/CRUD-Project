@@ -1,0 +1,31 @@
+.button-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.btn-linkedin {
+    background-color: #0a66c2;
+    color: #fff;
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+
+.btn-linkedin:hover {
+    background-color: #004182;
+    transform: scale(1.05);
+}
+
+.btn-github {
+    background-color: #333;
+    color: #fff;
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+
+.btn-github:hover {
+    background-color: #555;
+    transform: scale(1.05);
+}
