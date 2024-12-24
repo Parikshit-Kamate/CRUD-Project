@@ -89,6 +89,51 @@
       "course": "Python",
       "fees": 80000,
       "email": "parikshit00218@gmail.com"
+    },
+    {
+      "id": "3a93",
+      "fname": "PARIKSHIT",
+      "lname": "KAMATE",
+      "mother_name": "Vidya",
+      "father_name": "Ramesh",
+      "address": "SASANE GALLI, NIPANI",
+      "gender": "Male",
+      "dob": "10 February 1990",
+      "pincode": "591237",
+      "password": "parikshitS@123",
+      "course": "DSA",
+      "fees": 40000,
+      "email": "parikshitS@gmail.com"
+    },
+    {
+      "id": "5460",
+      "fname": "PARIKSHIT",
+      "lname": "KAMATE",
+      "mother_name": "Vidya",
+      "father_name": "Ramesh",
+      "address": "SASANE GALLI, NIPANI",
+      "gender": "Male",
+      "dob": "10 February 1990",
+      "pincode": "591237",
+      "password": "parikshitS@123",
+      "course": "Python",
+      "fees": 80000,
+      "email": "parikshitS@gmail.com"
+    },
+    {
+      "id": "331c",
+      "fname": "PARIKSHIT",
+      "lname": "KAMATE",
+      "mother_name": "Vidya",
+      "father_name": "Ramesh",
+      "address": "SASANE GALLI, NIPANI",
+      "gender": "Male",
+      "dob": "10 February 1990",
+      "pincode": "591237",
+      "password": "parikshitS@123",
+      "course": "C++",
+      "fees": 20000,
+      "email": "parikshitS@gmail.com"
     }
   ]
 }

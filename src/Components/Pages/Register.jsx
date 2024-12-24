@@ -10,7 +10,7 @@ const Register = () => {
       .then(() => {
         alert('Data added successfully')
         reset()
-        window.location.reload()
+        // window.location.reload()
       })
       .catch((error) => {
         alert('Error adding data')
