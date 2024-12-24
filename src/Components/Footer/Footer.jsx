@@ -18,7 +18,7 @@ const Footer = () => {
               <div className='me-3'>
                 <i className='bi bi-pin-map'></i>
               </div>
-              <div>
+              <div className='fs-3 fw-bold'>
                 Nipani , Karnataka 591237
               </div>
             </div>
